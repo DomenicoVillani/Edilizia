@@ -1,2 +1,18 @@
-﻿body {
+﻿.no-underline{
+    text-decoration-line:none;
+    font-size:2em;
+    color:rebeccapurple;
+}
+.no-underline:hover{
+    scale:1.1;
+    transition:1s;
+}
+table{
+    margin: 0 auto;
+}
+body{
+    background-color:aqua;
+}
+.text-purple{
+    color: rebeccapurple;
 }
